@@ -1,10 +1,12 @@
 # LoaderV3
 
-MAIN OWNER DANIXK
+MAIN OWNER [DANIXK](https://github.com/Danixik)
 
 # Support
 https://discord.gg/RcmrxBPPD9
+
 # DISCORD
+
 ```shell
 robpro#7420
 ```
